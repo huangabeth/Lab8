@@ -15,6 +15,7 @@ Cloud: https://colab.research.google.com/drive/1zelX0-uVG5LsJVgqDuaHFBsitr4E6vCQ
 *************************************************************************************
 References:
 Dr. Christopher Pham's Module 8 Lectures & Code
+https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/cnn.ipynb#scrollTo=WRzW5xSDDbNF
 Coding Games In Python & its Python Games Resource Pack: Chapter 8 Balloon Flight
 
 *************************************************************************************
